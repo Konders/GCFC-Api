@@ -6,6 +6,7 @@
 **Connection**
 If you using want to use https connection, send requests to https://gcfc.ru/api/configs
 or use default http connection with http://api.gcfc.ru/Configs
+
 **API key**
 You need hack api key, and user api key.
 First API key you can get on your personal cabinet.
