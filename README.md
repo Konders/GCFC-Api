@@ -4,15 +4,22 @@
 
 
 **Connection**
+
 If you using want to use https connection, send requests to https://gcfc.ru/api/configs
+
 or use default http connection with http://api.gcfc.ru/Configs
 
 **API key**
+
 You need hack api key, and user api key.
+
 First API key you can get on your personal cabinet.
+
 Second API key user must get on personal cabinet and put in string variable
+
 ****
 **Server-side information**
+
 Successful request returns json encoded configs array like this: 
 
     [{"name":"1tap cfg 4 this paste","config":"aim = 1\r\nwh = 1\r\nbhop = 1\r\n","description":"Best config for hvh legends","type":"Rage","owner":"legenden","file_type":"ini"}]
