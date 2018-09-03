@@ -22,7 +22,8 @@ Unsuccessful request can return errors:
 3. Invalid user_key
 4. User banned
 5. User doesn`t have configs for this hack
-####Usage example
+
+**Usage example**
 
 
 
